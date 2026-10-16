@@ -1,9 +1,3 @@
----
-title: "SCRIPT FOR DATA MINING FROM BOLD - COLLEMBOLA"
-author: ""
-date: ""
-output: html_document
----
 ## Load BOLDconnectR package for interfacing with BOLD database
 Allows retrieval, transformation and analysis of the Barcode of Life Data systems data
 
