@@ -1,4 +1,5 @@
-
+## Load BOLDconnectR package for interfacing with BOLD database
+Allows retrieval, transformation and analysis of the Barcode of Life Data systems data
 ``` r
 library(BOLDconnectR)
 ```
