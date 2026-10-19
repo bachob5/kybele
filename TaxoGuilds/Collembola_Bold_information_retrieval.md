@@ -251,7 +251,6 @@ collembola_unique <- collembola_data %>%
   # 1. Valid geographic coordinates.
   # 2. Greater sequence length.
   # 3. Available locality information.
-  # 4. PROCESSID in ascending order as the final tie-breaker.
   arrange(
     species,
     desc(has_coordinates),
