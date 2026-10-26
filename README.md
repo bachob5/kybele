@@ -11,3 +11,9 @@ For these taxa, structured catalogues of species names, habitats, and ecological
 The repositary shares specific scripts regarding the original dataset retrieval, taxonomic information extraction from NCBI taxonomy and Catalogue of Life (CoL) backbones including taxa synonyms. Sharing such material fulfill the open-science requirements ensuring code reusability as well as the possibility to expand the pipeline to additional and wider taxonomic groups.  
 
 
+TaxoGuilds folder contains the main scripts to retrieve the original data and the corresponding Taxonomic information from several taxonomy backbones:
+
+- Collembola_Bold_information_retrieval.md workflow retrieves Collembola taxa from BOLD using several exclusion and inclusion parameters, which are detailed within the script.
+- get_ColSynonyms_std.py provides a standardized Python code to retrieve taxonomic information per taxa including taxa Synonyms from Catalogue of Life (https://www.catalogueoflife.org/) backbone.
+- get_NCBISynonyms_std.py provides a standardized Python code to retrieve taxonomic paths, TaxIDs paths and taxon synonyms per taxa from NCBI Taxonomy (https://www.ncbi.nlm.nih.gov/taxonomy) backbone.
+
