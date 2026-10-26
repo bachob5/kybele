@@ -1,0 +1,200 @@
+BOLD_Taxonomy|kingdom;phylum;class;order;family;subfamily;tribe;genus;species	NCBI_Synonyms	RankedTaxIDs|phylum;class;order;family;genus;species
+Animalia;Arthropoda;Collembola;Symphypleona;Sminthuridae;Sminthurinae;NA;Allacma;Allacma fusca		6656;30001;79705;39131;39132;39272
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Pseudachorutinae;NA;Anurida;Anurida granaria	Anoura granaria	6656;30001;730331;36138;64692;187597
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Pseudachorutinae;NA;Anurida;Anurida granulata	Micranurida granulata	6656;30001;730331;36138;64692;2905848
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Pseudachorutinae;NA;Anurida;Anurida maritima	Achorutes maritimus	6656;30001;730331;36138;64692;64695
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Pseudachorutinae;NA;Anurida;Anurida tullbergi		6656;30001;730331;36138;64692;1725394
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Anurophorinae;NA;Anurophorus;Anurophorus laricis		6656;30001;730330;36141;1387123;2107182
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Anurophorinae;NA;Anurophorus;Anurophorus septentrionalis		6656;30001;730330;36141;1387123;1387124
+Animalia;Arthropoda;Collembola;Symphypleona;Arrhopalitidae;NA;NA;Arrhopalites;Arrhopalites caecus		6656;30001;79705;2041976;187608;226808
+Animalia;Arthropoda;Collembola;Symphypleona;Bourletiellidae;Bourletiellinae;NA;Bourletiella;Bourletiella arvalis	Smynthurus arvalis	6656;30001;79705;187607;574227;2049373
+Animalia;Arthropoda;Collembola;Poduromorpha;Brachystomellidae;NA;NA;Brachystomella;Brachystomella parvula		6656;30001;730331;79713;187610;187611
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Ceratophysella;Ceratophysella bengtssoni		6656;30001;730331;30002;187617;1720639
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Ceratophysella;Ceratophysella cavicola	Achorutes cavicolus	6656;30001;730331;30002;187617;1288903
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Ceratophysella;Ceratophysella denticulata		6656;30001;730331;30002;187617;928250
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Ceratophysella;Ceratophysella engadinensis	Hypogastrura engadinensis	6656;30001;730331;30002;187617;2803653
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Ceratophysella;Ceratophysella gibbosa	Achorutes gibbosus	6656;30001;730331;30002;187617;187618
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Ceratophysella;Ceratophysella granulata		6656;30001;730331;30002;187617;1218962
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Ceratophysella;Ceratophysella longispina	Achorutes longispinis	6656;30001;730331;30002;187617;2722004
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Ceratophysella;Ceratophysella scotica	Achorutes longispinus var. scoticus	6656;30001;730331;30002;187617;2905844
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Ceratophysella;Ceratophysella sigillata	Ceratophysella pseudarmata	6656;30001;730331;30002;187617;1218965
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Ceratophysella;Ceratophysella succinea		6656;30001;730331;30002;187617;2041936
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Choreutinula;Choreutinula inermis	Achorutes inermis	6656;30001;730331;30002;2449118;2449119
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Anurophorinae;NA;Cryptopygus;Cryptopygus clavatus	Isotoma clavata;Proisotoma admaritima	6656;30001;730330;36141;187622;3042125
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Lepidocyrtidae;Cyphoderinae;NA;Cyphoderus;Cyphoderus albinus		6656;30001;730330;33336;1499078;1499079
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Desoria;Desoria calderonis		6656;30001;730330;36141;281417;2865909
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Desoria;Desoria grisea	Isotoma grisea	6656;30001;730330;36141;281417;2107370
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Desoria;Desoria hiemalis	Isotoma hiemalis	6656;30001;730330;36141;281417;3051841
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Desoria;Desoria intermedia	Isotoma intermedia	6656;30001;730330;36141;281417;3158790
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Desoria;Desoria nivea	Isotoma nivea	6656;30001;730330;36141;281417;1184800
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Desoria;Desoria olivacea	Isotoma olivacea	6656;30001;730330;36141;281417;370026
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Desoria;Desoria orobica		6656;30001;730330;36141;281417;3127815
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Desoria;Desoria saltans		6656;30001;730330;36141;281417;3127811
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Desoria;Desoria tigrina		6656;30001;730330;36141;281417;370036
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Desoria;Desoria trispinata		6656;30001;730330;36141;281417;1184801
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Desoria;Desoria tshernovi	Isotoma tshernovi	6656;30001;730330;36141;281417;281418
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Desoria;Desoria violacea		6656;30001;730330;36141;281417;2041937
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Onychiurini;Deuteraphorura;Deuteraphorura kratochvili		6656;30001;730331;48715;2041959;2703755
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Neanurinae;Neanurini;Deutonura;Deutonura caerulescens		6656;30001;730331;36138;106921;768147
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Neanurinae;Neanurini;Deutonura;Deutonura decolorata	Neanura decolorata	6656;30001;730331;36138;106921;768148
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Neanurinae;Neanurini;Deutonura;Deutonura deficiens		6656;30001;730331;36138;106921;172926
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Neanurinae;Neanurini;Deutonura;Deutonura gibbosa		6656;30001;730331;36138;106921;1095201
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Neanurinae;Neanurini;Deutonura;Deutonura monticola	Neanura conjuncta var. monticola	6656;30001;730331;36138;106921;1218232
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Neanurinae;Neanurini;Deutonura;Deutonura provincialis		6656;30001;730331;36138;106921;1218233
+Animalia;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;Dicyrtominae;NA;Dicyrtoma;Dicyrtoma fusca	Dicyrtoma fusca var. rufescens	6656;30001;79705;79710;135964;1385863
+Animalia;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;Dicyrtominae;NA;Dicyrtomina;Dicyrtomina minuta		6656;30001;79705;79710;438491;1387116
+Animalia;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;Dicyrtominae;NA;Dicyrtomina;Dicyrtomina ornata		6656;30001;79705;79710;438491;1113191
+Animalia;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;Dicyrtominae;NA;Dicyrtomina;Dicyrtomina saundersi		6656;30001;79705;79710;438491;438492
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Entomobryidae;Entomobryinae;NA;Entomobrya;Entomobrya albocincta	Podura albo-cincta	6656;30001;730330;48704;187625;2107183
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Entomobryidae;Entomobryinae;NA;Entomobrya;Entomobrya assuta		6656;30001;730330;48704;187625;1602980
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Entomobryidae;Entomobryinae;NA;Entomobrya;Entomobrya atrocincta		6656;30001;730330;48704;187625;1602981
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Entomobryidae;Entomobryinae;NA;Entomobrya;Entomobrya corticalis	Degeeria corticalis	6656;30001;730330;48704;187625;1503966
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Entomobryidae;Entomobryinae;NA;Entomobrya;Entomobrya intermedia		6656;30001;730330;48704;187625;1602984
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Entomobryidae;Entomobryinae;NA;Entomobrya;Entomobrya lanuginosa	Degeeria lanuginosa	6656;30001;730330;48704;187625;187626
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Entomobryidae;Entomobryinae;NA;Entomobrya;Entomobrya marginata		6656;30001;730330;48704;187625;1387110
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Entomobryidae;Entomobryinae;NA;Entomobrya;Entomobrya multifasciata	Degeeria multifasciata	6656;30001;730330;48704;187625;247613
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Entomobryidae;Entomobryinae;NA;Entomobrya;Entomobrya muscorum	Degeeria muscorum	6656;30001;730330;48704;187625;2041940
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Entomobryidae;Entomobryinae;NA;Entomobrya;Entomobrya nicoleti	Degeeria nicoletii	6656;30001;730330;48704;187625;2041941
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Entomobryidae;Entomobryinae;NA;Entomobrya;Entomobrya nivalis	Podura nivalis	6656;30001;730330;48704;187625;1387109
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Entomobryidae;Entomobryinae;NA;Entomobrya;Entomobrya unostrigata		6656;30001;730330;48704;187625;1690820
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Anurophorinae;NA;Folsomides;Folsomides angularis	Isotoma angularis	6656;30001;730330;36141;1184807;3054966
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Anurophorinae;NA;Folsomides;Folsomides parvulus		6656;30001;730330;36141;1184807;1184808
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Frieseinae;NA;Friesea;Friesea atypica		6656;30001;730331;36138;106927;3447686
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Frieseinae;NA;Friesea;Friesea claviseta		6656;30001;730331;36138;106927;1725396
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Frieseinae;NA;Friesea;Friesea mirabilis		6656;30001;730331;36138;106927;187627
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Frieseinae;NA;Friesea;Friesea quinquespinosa		6656;30001;730331;36138;106927;3447681
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Frieseinae;NA;Friesea;Friesea truncata		6656;30001;730331;36138;106927;187628
+Animalia;Arthropoda;Collembola;Symphypleona;Katiannidae;NA;Katiannini;Gisinianus;Gisinianus flammeolus	Sminthurinus flammeolus	6656;30001;79705;187603;2041980;2449080
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Anurophorinae;NA;Hemisotoma;Hemisotoma thermophila	Cryptopygus thermophilus;Isotoma thermophila	6656;30001;730330;36141;1617845;2994027
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Hymenaphorurini;Heteraphorura;Heteraphorura carpatica	Onychiurus carpatica	6656;30001;730331;48715;2898948;2898949
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Orchesellidae;Heteromurinae;Heteromurini;Heteromurus;Heteromurus absoloni	Heteromurus (Verhoeffiella) absoloni	6656;30001;730330;48704;254094;1765952
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Orchesellidae;Heteromurinae;Heteromurini;Heteromurus;Heteromurus major	Templetonia major	6656;30001;730330;48704;254094;1218234
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Orchesellidae;Heteromurinae;Heteromurini;Heteromurus;Heteromurus nitidus	Podura nitida	6656;30001;730330;48704;254094;254095
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Hymenaphorurini;Hymenaphorura;Hymenaphorura dentifera	Hymenaphorura sibirica dentifera;Onychiurus sibiricus f. dentifera	6656;30001;730331;48715;2898950;2905845
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Hymenaphorurini;Hymenaphorura;Hymenaphorura pseudosibirica	Onychiurus pseudosibirica	6656;30001;730331;48715;2898950;2898952
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Hypogastrura;Hypogastrura assimilis		6656;30001;730331;30002;30003;2234137
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Hypogastrura;Hypogastrura burkilli	Achorutes burkilli	6656;30001;730331;30002;30003;1725397
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Hypogastrura;Hypogastrura concolor	Achorutes concolor	6656;30001;730331;30002;30003;281414
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Hypogastrura;Hypogastrura distincta	Achorutes distinctus	6656;30001;730331;30002;30003;1725398
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Hypogastrura;Hypogastrura kelmendica		6656;30001;730331;30002;30003;3051843
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Hypogastrura;Hypogastrura purpurescens		6656;30001;730331;30002;30003;999745
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Hypogastrura;Hypogastrura socialis		6656;30001;730331;30002;30003;1458444
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Hypogastrura;Hypogastrura subboldorii		6656;30001;730331;30002;30003;999743
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Hypogastrura;Hypogastrura vernalis		6656;30001;730331;30002;30003;187634
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Hypogastrura;Hypogastrura viatica		6656;30001;730331;30002;30003;367843
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Isotoma;Isotoma anglicana		6656;30001;730330;36141;57735;247611
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Isotoma;Isotoma caerulea		6656;30001;730330;36141;57735;308473
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Isotoma;Isotoma riparia	Desoria riparia	6656;30001;730330;36141;57735;252253
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Isotoma;Isotoma viridis		6656;30001;730330;36141;57735;187635
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Isotomurus;Isotomurus antennalis	Isotoma antenalis	6656;30001;730330;36141;36142;370027
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Isotomurus;Isotomurus cassagnaui		6656;30001;730330;36141;36142;2083174
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Isotomurus;Isotomurus gallicus		6656;30001;730330;36141;36142;2083175
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Isotomurus;Isotomurus graminis		6656;30001;730330;36141;36142;1184803
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Isotomurus;Isotomurus maculatus	Isotoma maculatus	6656;30001;730330;36141;36142;36143
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Isotomurus;Isotomurus palustris	Isotomurus catalanus;Isotomurus palustris f. catalana;Podura palustris	6656;30001;730330;36141;36142;36144
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Isotomurus;Isotomurus plumosus		6656;30001;730330;36141;36142;1410395
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Isotomurus;Isotomurus pseudopalustris		6656;30001;730330;36141;36142;2926726
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Isotomurus;Isotomurus stuxbergi	Isotoma stuxbergii	6656;30001;730330;36141;36142;1410388
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Isotomurus;Isotomurus unifasciatus	Isotoma unifasciata	6656;30001;730330;36141;36142;48718
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Hymenaphorurini;Kalaphorura;Kalaphorura paradoxa	Aphorura paradoxa	6656;30001;730331;48715;187648;187649
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Neanurinae;Neanurini;Lathriopyga;Lathriopyga longiseta	Achorutes longiseta	6656;30001;730331;36138;106923;106924
+Animalia;Arthropoda;Collembola;Symphypleona;Sminthuridae;Sphyrothecinae;NA;Lipothrix;Lipothrix lubbocki	Eusminthurus lubbockii	6656;30001;79705;39131;1387125;1387126
+Animalia;Arthropoda;Collembola;Neelipleona;Neelidae;NA;NA;Megalothorax;Megalothorax incertus	Neelus incertus	6656;30001;79708;79709;438499;2579793
+Animalia;Arthropoda;Collembola;Neelipleona;Neelidae;NA;NA;Megalothorax;Megalothorax minimus		6656;30001;79708;79709;438499;438500
+Animalia;Arthropoda;Collembola;Neelipleona;Neelidae;NA;NA;Megalothorax;Megalothorax perspicillum		6656;30001;79708;79709;438499;1381478
+Animalia;Arthropoda;Collembola;Neelipleona;Neelidae;NA;NA;Megalothorax;Megalothorax sanctistephani		6656;30001;79708;79709;438499;3394313
+Animalia;Arthropoda;Collembola;Neelipleona;Neelidae;NA;NA;Megalothorax;Megalothorax svalbardensis		6656;30001;79708;79709;438499;1381479
+Animalia;Arthropoda;Collembola;Neelipleona;Neelidae;NA;NA;Megalothorax;Megalothorax willemi		6656;30001;79708;79709;438499;1381480
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Protaphorurini;Megaphorura;Megaphorura arctica	Onychiurus arcticus	6656;30001;730331;48715;1071256;1071257
+Animalia;Arthropoda;Collembola;Poduromorpha;Tullbergiidae;NA;NA;Mesaphorura;Mesaphorura hylophila		6656;30001;730331;676060;187655;3158774
+Animalia;Arthropoda;Collembola;Poduromorpha;Tullbergiidae;NA;NA;Mesaphorura;Mesaphorura krausbaueri		6656;30001;730331;676060;187655;3158775
+Animalia;Arthropoda;Collembola;Poduromorpha;Tullbergiidae;NA;NA;Mesaphorura;Mesaphorura macrochaeta		6656;30001;730331;676060;187655;2651973
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Pseudachorutinae;NA;Micranurida;Micranurida meridionalis		6656;30001;730331;36138;187659;3447685
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Pseudachorutinae;NA;Micranurida;Micranurida pygmaea		6656;30001;730331;36138;187659;187660
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Neanurinae;Neanurini;Monobella;Monobella grassei	Achorutes grassei	6656;30001;730331;36138;187670;187671
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Neanurinae;Neanurini;Neanura;Neanura muscorum		6656;30001;730331;36138;106919;106920
+Animalia;Arthropoda;Collembola;Neelipleona;Neelidae;NA;NA;Neelides;Neelides minutus	Neelus minutus	6656;30001;79708;79709;332381;332382
+Animalia;Arthropoda;Collembola;Neelipleona;Neelidae;NA;NA;Neelus;Neelus koseli		6656;30001;79708;79709;1136002;1136003
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Oligaphorurini;Oligaphorura;Oligaphorura groenlandica		6656;30001;730331;48715;1052799;1790190
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Oncopoduridae;NA;NA;Oncopodura;Oncopodura crassicornis		6656;30001;730330;79715;187675;187676
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Onychiurini;Onychiurus;Onychiurus ambulans		6656;30001;730331;48715;136168;187677
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Orchesellidae;Orchesellinae;NA;Orchesella;Orchesella bifasciata		6656;30001;730330;2768097;48705;576794
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Orchesellidae;Orchesellinae;NA;Orchesella;Orchesella cincta	Podura cincta	6656;30001;730330;2768097;48705;48709
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Orchesellidae;Orchesellinae;NA;Orchesella;Orchesella flavescens	Heterotoma flavescens	6656;30001;730330;2768097;48705;48711
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Orchesellidae;Orchesellinae;NA;Orchesella;Orchesella villosa		6656;30001;730330;2768097;48705;48706
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Parisotoma;Parisotoma ekmani	Isotoma ekmani	6656;30001;730330;36141;187681;1095205
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Parisotoma;Parisotoma notabilis	Isotoma notabilis	6656;30001;730330;36141;187681;187682
+Animalia;Arthropoda;Collembola;Poduromorpha;Poduridae;NA;NA;Podura;Podura aquatica		6656;30001;730331;50587;50588;50589
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Tomoceridae;Tomocerinae;Tomocerini;Pogonognathellus;Pogonognathellus flavescens	Macrotoma flavescens	6656;30001;730330;79716;511699;511703
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Tomoceridae;Tomocerinae;Tomocerini;Pogonognathellus;Pogonognathellus longicornis	Podura longicornis	6656;30001;730330;79716;511699;707266
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Anurophorinae;NA;Proisotomodes;Proisotomodes bipunctatus	Cryptopygus bipunctatus;Isotoma bipunctatus	6656;30001;730330;36141;3158792;3158793
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Protaphorurini;Protaphorura;Protaphorura armata		6656;30001;730331;48715;187683;187684
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Protaphorurini;Protaphorura;Protaphorura aurantiaca	Onychiurus aurantiaca	6656;30001;730331;48715;187683;1725400
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Protaphorurini;Protaphorura;Protaphorura campata		6656;30001;730331;48715;187683;2041949
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Protaphorurini;Protaphorura;Protaphorura cancellata	Onychiurus cancellatus	6656;30001;730331;48715;187683;2714226
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Protaphorurini;Protaphorura;Protaphorura fimata		6656;30001;730331;48715;187683;1519113
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Protaphorurini;Protaphorura;Protaphorura glebata	Onychiurus glebatus	6656;30001;730331;48715;187683;2905850
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Protaphorurini;Protaphorura;Protaphorura janosik		6656;30001;730331;48715;187683;2022742
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Protaphorurini;Protaphorura;Protaphorura pseudovanderdrifti		6656;30001;730331;48715;187683;2714227
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Protaphorurini;Protaphorura;Protaphorura subuliginata		6656;30001;730331;48715;187683;3158777
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Protaphorurini;Protaphorura;Protaphorura tricampata		6656;30001;730331;48715;187683;2926732
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Pseudachorutinae;NA;Pseudachorutella;Pseudachorutella asigillata		6656;30001;730331;36138;3447691;3447694
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Pseudachorutinae;NA;Pseudachorutes;Pseudachorutes dubius		6656;30001;730331;36138;52429;1387119
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Pseudachorutinae;NA;Pseudachorutes;Pseudachorutes palmiensis		6656;30001;730331;36138;52429;187685
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Pseudachorutinae;NA;Pseudachorutes;Pseudachorutes parvulus		6656;30001;730331;36138;52429;3447684
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Pseudachorutinae;NA;Pseudachorutes;Pseudachorutes subcrassus		6656;30001;730331;36138;52429;1503969
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Pseudisotoma;Pseudisotoma sensibilis	Isotoma sensibilis	6656;30001;730330;36141;358900;358901
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Lepidocyrtidae;Lepidocyrtinae;Lepidocyrtini;Pseudosinella;Pseudosinella alba	Lepidocyrtus albus	6656;30001;730330;48704;186257;1302326
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Lepidocyrtidae;Lepidocyrtinae;Lepidocyrtini;Pseudosinella;Pseudosinella octopunctata		6656;30001;730330;48704;186257;1690821
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Lepidocyrtidae;Lepidocyrtinae;Lepidocyrtini;Pseudosinella;Pseudosinella paclti		6656;30001;730330;48704;186257;3029449
+Animalia;Arthropoda;Collembola;Symphypleona;Arrhopalitidae;NA;NA;Pygmarrhopalites;Pygmarrhopalites principalis		6656;30001;79705;2041976;2041963;2041964
+Animalia;Arthropoda;Collembola;Symphypleona;Arrhopalitidae;NA;NA;Pygmarrhopalites;Pygmarrhopalites pygmaeus		6656;30001;79705;2041976;2041963;2041965
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Schoettella;Schoettella ununguiculata		6656;30001;730331;30002;187692;187693
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Seiridae;NA;NA;Seira;Seira pallidipes		6656;30001;730330;48704;186261;3053390
+Animalia;Arthropoda;Collembola;Symphypleona;Sminthurididae;NA;NA;Sminthurides;Sminthurides aquaticus	Sminthurides aquaticus var. viridulus	6656;30001;79705;187696;187697;281415
+Animalia;Arthropoda;Collembola;Symphypleona;Sminthurididae;NA;NA;Sminthurides;Sminthurides malmgreni		6656;30001;79705;187696;187697;281416
+Animalia;Arthropoda;Collembola;Symphypleona;Sminthurididae;NA;NA;Sminthurides;Sminthurides parvulus		6656;30001;79705;187696;187697;2041951
+Animalia;Arthropoda;Collembola;Symphypleona;Sminthurididae;NA;NA;Sminthurides;Sminthurides schoetti		6656;30001;79705;187696;187697;2041952
+Animalia;Arthropoda;Collembola;Symphypleona;Katiannidae;NA;NA;Sminthurinus;Sminthurinus aureus		6656;30001;79705;187603;187717;1496267
+Animalia;Arthropoda;Collembola;Symphypleona;Katiannidae;NA;NA;Sminthurinus;Sminthurinus bimaculatus		6656;30001;79705;187603;187717;187699
+Animalia;Arthropoda;Collembola;Symphypleona;Katiannidae;NA;NA;Sminthurinus;Sminthurinus concolor	Sminthurus concolor	6656;30001;79705;187603;187717;1790211
+Animalia;Arthropoda;Collembola;Symphypleona;Katiannidae;NA;NA;Sminthurinus;Sminthurinus domesticus		6656;30001;79705;187603;187717;1725401
+Animalia;Arthropoda;Collembola;Symphypleona;Katiannidae;NA;NA;Sminthurinus;Sminthurinus elegans	Sminthurinus henshawi similitortus;Sminthurus elegans	6656;30001;79705;187603;187717;1190784
+Animalia;Arthropoda;Collembola;Symphypleona;Katiannidae;NA;NA;Sminthurinus;Sminthurinus niger		6656;30001;79705;187603;187717;1725402
+Animalia;Arthropoda;Collembola;Symphypleona;Katiannidae;NA;NA;Sminthurinus;Sminthurinus reticulatus		6656;30001;79705;187603;187717;1725403
+Animalia;Arthropoda;Collembola;Symphypleona;Katiannidae;NA;NA;Sminthurinus;Sminthurinus signatus	Sminthurinus aureus f. signata	6656;30001;79705;187603;187717;2584529
+Animalia;Arthropoda;Collembola;Symphypleona;Katiannidae;NA;NA;Sminthurinus;Sminthurinus sp.		6656;30001;79705;187603;187717;3054206
+Animalia;Arthropoda;Collembola;Symphypleona;Katiannidae;NA;NA;Sminthurinus;Sminthurinus trinotatus		6656;30001;79705;187603;187717;1496266
+Animalia;Arthropoda;Collembola;Symphypleona;Sminthuridae;Sminthurinae;NA;Sminthurus;Sminthurus viridis	Podura viridis	6656;30001;79705;39131;109608;109609
+Animalia;Arthropoda;Collembola;Symphypleona;Sminthurididae;NA;Sphaeridiini_Collembola;Sphaeridia;Sphaeridia pumilis		6656;30001;79705;187696;212015;212016
+Animalia;Arthropoda;Collembola;Symphypleona;Sminthurididae;NA;Sminthuridini;Stenacidia;Stenacidia violacea		6656;30001;79705;187696;2041967;2041968
+Animalia;Arthropoda;Collembola;Poduromorpha;Odontellidae;NA;NA;Superodontella;Superodontella alpina	Odontella alpina	6656;30001;730331;79712;187700;187701
+Animalia;Arthropoda;Collembola;Poduromorpha;Odontellidae;NA;NA;Superodontella;Superodontella gisini	Odontella gisini	6656;30001;730331;79712;187700;187702
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Protaphorurini;Supraphorura;Supraphorura furcifera		6656;30001;730331;48715;2041971;2041972
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Tetrodontophorinae;NA;Tetrodontophora;Tetrodontophora bielanensis	Achorutes bielanensis	6656;30001;730331;48715;48716;48717
+Animalia;Arthropoda;Collembola;Poduromorpha;Onychiuridae;Onychiurinae;Thalassaphorurini;Thalassaphorura;Thalassaphorura encarpata	Onychiurus encarpatus	6656;30001;730331;48715;1410436;2583954
+Animalia;Arthropoda;Collembola;Poduromorpha;Neanuridae;Neanurinae;Neanurini;Thaumanura;Thaumanura carolii	Thaumanura caroli	6656;30001;730331;36138;48713;187703
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Tomoceridae;NA;NA;Tomocerus;Tomocerus baudoti		6656;30001;730330;79716;58788;1116929
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Tomoceridae;NA;NA;Tomocerus;Tomocerus minor	Macrotoma minor	6656;30001;730330;79716;58788;187706
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Tomoceridae;NA;NA;Tomocerus;Tomocerus problematicus		6656;30001;730330;79716;58788;1218964
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Tomoceridae;NA;NA;Tomocerus;Tomocerus vulgaris	Macrotoma vulgaris	6656;30001;730330;79716;58788;1519116
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Vertagopus;Vertagopus alpinus		6656;30001;730330;36141;281425;3127814
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Vertagopus;Vertagopus arboreus		6656;30001;730330;36141;281425;2041954
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Vertagopus;Vertagopus fradustaensis		6656;30001;730330;36141;281425;3127816
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Vertagopus;Vertagopus glacialis		6656;30001;730330;36141;281425;3127817
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Vertagopus;Vertagopus glacieinigrae		6656;30001;730330;36141;281425;3127818
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Vertagopus;Vertagopus psychrophilus		6656;30001;730330;36141;281425;3127819
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Isotomidae;Isotominae;NA;Vertagopus;Vertagopus sp.		6656;30001;730330;36141;281425;3054136
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Willemia;Willemia anophthalma		6656;30001;730331;30002;187709;2041955
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Willemia;Willemia denisi		6656;30001;730331;30002;187709;187710
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Willemia;Willemia scandinavica		6656;30001;730331;30002;187709;1790227
+Animalia;Arthropoda;Collembola;Entomobryomorpha;Entomobryidae;Willowsiinae;Willowsiini;Willowsia;Willowsia nigromaculata	Seira nigromaculata	6656;30001;730330;48704;181624;1302335
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Xenylla;Xenylla boerneri		6656;30001;730331;30002;187711;1725404
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Xenylla;Xenylla brevisimilis		6656;30001;730331;30002;187711;2449114
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Xenylla;Xenylla humicola		6656;30001;730331;30002;187711;367844
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Xenylla;Xenylla maritima		6656;30001;730331;30002;187711;1725405
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Xenylla;Xenylla mediterranea		6656;30001;730331;30002;187711;2567731
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Xenylla;Xenylla pomorskii		6656;30001;730331;30002;187711;1921088
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Xenylla;Xenylla szeptyckii		6656;30001;730331;30002;187711;1921089
+Animalia;Arthropoda;Collembola;Poduromorpha;Hypogastruridae;NA;NA;Xenylla;Xenylla tullbergi		6656;30001;730331;30002;187711;187713
+Animalia;Arthropoda;Collembola;Poduromorpha;Odontellidae;NA;NA;Xenyllodes;Xenyllodes armatus	Odontella armatus	6656;30001;730331;79712;187714;187716
