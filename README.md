@@ -14,7 +14,7 @@ The repositary shares specific scripts regarding the original dataset retrieval,
 **TaxoGuilds** folder contains the main scripts to retrieve the original data and the corresponding Taxonomic information from several taxonomy backbones:
 
 - **Collembola_Bold_information_retrieval.md** workflow retrieves Collembola taxa from BOLD using several exclusion and inclusion parameters, which are detailed within the script.\
-<p>Input data from BOLD: results/collembola_unique_n_occurence.txt
+	Input data from BOLD: results/collembola_unique_n_occurence.txt
 - **get_ColSynonyms_std.py** provides a standardized Python code to retrieve taxonomic information per taxa including taxa Synonyms from Catalogue of Life (https://www.catalogueoflife.org/) backbone.\
        See CoL output in results/collembola_unique_n_occurence_ColSynonyms.tsv
 - **get_NCBISynonyms_std.py** provides a standardized Python code to retrieve taxonomic paths, TaxIDs paths and taxon synonyms per taxa from NCBI Taxonomy (https://www.ncbi.nlm.nih.gov/taxonomy) backbone.\
